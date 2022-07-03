@@ -207,10 +207,5 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,virtualenv,venv
 
-.DaySummaryIngestor
-.requirements.txt
-.requirements
-.requirements*
-.requirements/
-./requirements
-*.requirements
+DaySummaryIngestor.checkpoint
+day-summary/
